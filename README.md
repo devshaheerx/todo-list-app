@@ -84,15 +84,6 @@ Developed by Your Name
 
 ---
 
-# 🧾 GitHub "About" Section
-
-Use this short description:
-
-**Option 1 (simple):**  
-> A responsive To-Do List app built with HTML, CSS, and JavaScript featuring localStorage persistence and inline editing.
-
-**Option 2 (better):**  
-> A clean and responsive To-Do List web app with add, edit, and delete functionality, built using vanilla JavaScript and localStorage for persistent data.
 
 ---
 
